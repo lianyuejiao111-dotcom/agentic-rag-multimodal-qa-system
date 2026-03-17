@@ -1,0 +1,14 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+qdrant-client>=1.7.0
+openai>=1.0.0
+tiktoken>=0.5.0
+pydantic>=2.0.0
+python-multipart
+Pillow
+pytesseract
+pdf2image
+PyMuPDF
+docx2txt
+python-pptx
+numpy
